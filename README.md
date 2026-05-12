@@ -1,5 +1,5 @@
 ## Overview
-The **Netflix PM Qualitative Analysis Tool** is a Python-based interactive dashboard designed for Product Managers. It automates the process of analyzing large datasets of user feedback (in this case, 150,000+ Netflix app reviews) to extract actionable product insights, measure user sentiment, and automatically generate backlog recommendations.
+The [**Netflix PM Qualitative Analysis Tool](https://www.loom.com/share/e512486dfeda45ad98987beee27ceff1)** is a Python-based interactive dashboard designed for Product Managers. It automates the process of analyzing large datasets of user feedback (in this case, 150,000+ Netflix app reviews) to extract actionable product insights, measure user sentiment, and automatically generate backlog recommendations.
 
 This tool bridges the gap between raw qualitative data and structured product strategy using Natural Language Processing (NLP).
 
